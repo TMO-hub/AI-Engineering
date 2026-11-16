@@ -8,4 +8,5 @@ Hello *world!*
  
 df = pd.read_csv("salaries.csv")
 st.line_chart(df)
-st.area_chart
+st.area_chart(df)
+st.scatter_chart
