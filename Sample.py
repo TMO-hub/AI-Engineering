@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
- 
+pip install streamlit[charts]
 st.write("""
 # My first app
 Hello *world!*
